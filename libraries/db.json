@@ -1,0 +1,64 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "image": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpeg?auto=compresscs=tinysrgb&dpr=2&h=650&w=940",
+            "author": "John Doe"
+        },
+        {
+            "id": 2,
+            "image": "https://images.pexels.com/photos/5191371/pexels-photo-5191371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "author": "Jane Doe"
+        },
+        {
+            "id": 3,
+            "image": "https://images.pexels.com/photos/4587991/pexels-photo-4587991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "author": "John Doe"
+        },
+        {
+            "id": 4,
+            "image": "https://images.pexels.com/photos/8831665/pexels-photo-8831665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "author": "Jane Doe"
+        },
+        {
+            "id": 5,
+            "image": "https://images.pexels.com/photos/8826356/pexels-photo-8826356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "author": "John Doe"
+        },
+        {
+            "id": 6,
+            "image": "https://images.pexels.com/photos/4421290/pexels-photo-4421290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "author": "Jane Doe"
+        },
+        {
+            "id": 7,
+            "image": "https://images.pexels.com/photos/994473/pexels-photo-994473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "author": "John Doe"
+        },
+        {
+            "id": 8,
+            "image": "https://images.pexels.com/photos/1687678/pexels-photo-1687678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "author": "Jane Doe"
+        },
+        {
+            "id": 9,
+            "image": "https://images.pexels.com/photos/753266/pexels-photo-753266.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "author": "John Doe"
+        },
+        {
+            "id": 10,
+            "image": "https://images.pexels.com/photos/1643919/pexels-photo-1643919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "author": "Jane Doe"
+        }
+    ],
+    "content": [
+        {
+            "hero": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpeg?auto=compresscs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Content #1",
+            "heading": "I don't believe in courtship its a waste of time just love me now and I willcourt   you forever",
+            "paragraph": "This motivational quote was from Late President Ferdinand E. Marcos Sr.",
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&    cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorname": "John Doe" 
+        }
+    ]
+}

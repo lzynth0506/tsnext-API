@@ -1,0 +1,14 @@
+{
+  "name": "tsnext-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lzynth0506/tsnext-API.git",
+  "author": "Kenneth Obsequio <kenbusano2003@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
