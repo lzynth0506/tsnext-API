@@ -67,6 +67,14 @@
             "paragraph": "From patriotic boys",
             "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&    cs=tinysrgb&dpr=2&h=650&w=940",
             "authorname": "John Doe" 
+        },
+        {
+            "hero": "https://images.pexels.com/photos/5191371/pexels-photo-5191371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Content #3",
+            "heading": "Stay neutral and be patriotic",
+            "paragraph": "From patriotic boys",
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&    cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorname": "John Doe" 
         }
     ]
 }
