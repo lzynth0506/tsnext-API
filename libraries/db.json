@@ -53,28 +53,104 @@
     ],
     "content": [
         {
+            "id": 1,
             "hero": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpeg?auto=compresscs=tinysrgb&dpr=2&h=650&w=940",
             "title": "Content #1",
             "heading": "I don't believe in courtship its a waste of time just love me now and I will court you forever",
             "paragraph": "This motivational quote was from Late President Ferdinand E. Marcos Sr.",
-            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&    cs=tinysrgb&dpr=2&h=650&w=940",
-            "authorname": "John Doe" 
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImageAlt": "Content #1",
+            "authorname": "John Doe"
         },
         {
+            "id": 2,
             "hero": "https://images.pexels.com/photos/5191371/pexels-photo-5191371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "title": "Content #2",
             "heading": "Stay neutral and be patriotic",
             "paragraph": "From patriotic boys",
-            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&    cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImageAlt": "Content #2",
+            "authorname": "Jane Doe" 
+        },
+        {
+            "id": 3,
+            "hero": "https://images.pexels.com/photos/4587991/pexels-photo-4587991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Content #3",
+            "heading": "Headbashing is the best strategy sometimes i have to splatter their brains",
+            "paragraph": "From The Iron Lady and Late Senator Miriam Defensor-Santiago",
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImageAlt": "Content #3",
             "authorname": "John Doe" 
         },
         {
-            "hero": "https://images.pexels.com/photos/5191371/pexels-photo-5191371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-            "title": "Content #3",
+            "id": 4,
+            "hero": "https://images.pexels.com/photos/8831665/pexels-photo-8831665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Content #4",
             "heading": "Stay neutral and be patriotic",
             "paragraph": "From patriotic boys",
-            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&    cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImageAlt": "Content #4",
+            "authorname": "Jane Doe" 
+        },
+        {
+            "id": 5,
+            "hero": "https://images.pexels.com/photos/8826356/pexels-photo-8826356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "title": "Content #5",
+            "heading": "I don't believe in courtship its a waste of time just love me now and I will court you forever",
+            "paragraph": "This motivational quote was from Late President Ferdinand E. Marcos Sr.",
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImageAlt": "Content #5",
             "authorname": "John Doe" 
+        },
+        {
+            "id": 6,
+            "hero": "https://images.pexels.com/photos/4421290/pexels-photo-4421290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Content #6",
+            "heading": "I don't believe in courtship its a waste of time just love me now and I will court you forever",
+            "paragraph": "This motivational quote was from Late President Ferdinand E. Marcos Sr.",
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImageAlt": "Content #6",
+            "authorname": "Jane Doe" 
+        },
+        {
+            "id": 7,
+            "hero": "https://images.pexels.com/photos/994473/pexels-photo-994473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Content #7",
+            "heading": "I don't believe in courtship its a waste of time just love me now and I will court you forever",
+            "paragraph": "This motivational quote was from Late President Ferdinand E. Marcos Sr.",
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImageAlt": "Content #7",
+            "authorname": "John Doe" 
+        },
+        {
+            "id": 8,
+            "hero": "https://images.pexels.com/photos/1687678/pexels-photo-1687678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Content #8",
+            "heading": "Stay neutral and be patriotic",
+            "paragraph": "From patriotic boys",
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImageAlt": "Content #8",
+            "authorname": "Jane Doe" 
+        },
+        {
+            "id": 9,
+            "hero": "https://images.pexels.com/photos/753266/pexels-photo-753266.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "title": "Content #9",
+            "heading": "I don't believe in courtship its a waste of time just love me now and I will court you forever",
+            "paragraph": "This motivational quote was from Late President Ferdinand E. Marcos Sr.",
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImageAlt": "Content #9",
+            "authorname": "John Doe" 
+        },
+        {
+            "id": 10,
+            "hero": "https://images.pexels.com/photos/1643919/pexels-photo-1643919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Content #10",
+            "heading": "I don't believe in courtship its a waste of time just love me now and I will court you forever",
+            "paragraph": "This motivational quote was from Late President Ferdinand E. Marcos Sr.",
+            "authorImage": "https://images.pexels.com/photos/7722958/pexels-photo-7722958.jpegauto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "authorImageAlt": "Content #10",
+            "authorname": "Jane Doe" 
         }
     ]
 }
